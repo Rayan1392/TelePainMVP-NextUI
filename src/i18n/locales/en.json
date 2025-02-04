@@ -1,0 +1,75 @@
+{
+  "header": {
+    "home": "Home",
+    "branding": "branding",
+    "login": "login",
+    "sign_up": "sign_up",
+    "user_panel": "user_panel",
+    "submit_order": "submit_order"
+  },
+  "footer": {
+    "title": "Telepain soloutions",
+    "description": "350-889 Harbourside, BC",
+    "contact": "Contact"
+  },
+  "landing": {
+    "title": "Telepain soloutions",
+    "app_button": "Go to App",
+    "login_button": "Sign in",
+    "subtitle": "Your path to Relief Status Here :",
+    "display_name": "Tele Pain Soloutions",
+    "description1": "Thank you for registering with Telepainsolutions! We appreciate your trust in our virtual pain management services.",
+    "description2": "Our AI triage application is currently under development and will be available soon. We will notify you via email as soon as it is ready.",
+    "description3": "Stay tuned for updates, and we look forward to providing you with high-quality, personalized care!"
+  },
+  "auth": {
+    "login": {
+      "title": "Sign in",
+      "subtitle": "Dont have an account?",
+      "sign_up": "Signup",
+      "email_or_username": "Email address or user name",
+      "password": "Password",
+      "forgot_password": "Forget your password",
+      "remember_me": "Remember me",
+      "invalid_username": "Username is not valid",
+      "invalid_password": "Password is not valid"
+    },
+    "register": {
+      "back": "back",
+      "title": "Sign up",
+      "subtitle": "Already have an account?",
+      "sign_in": "Sign in",
+      "first_name": "First name",
+      "user_name": "User name",
+      "phone_number": "Phone number",
+      "password": "Password",
+      "confirm_password": "Confirm password",
+      "last_name": "Last name",
+      "email": "Email",
+      "province": "Province",
+      "city": "City",
+      "zip_code": "Zip Code",
+      "gender": "Gender",
+      "birth_date": "Date of birth",
+      "create_account": "Create an account",
+      "invalid_input": "{key} is not valid"
+    },
+    "forget_password": {
+      "back": "back",
+      "title": "Forget your password",
+      "email": "Email",
+      "continue": "Continue"
+    },
+    "reset_password": {
+      "back": "back",
+      "title": "Reset your password",
+      "new_password": "New password",
+      "confirm_password": "Confirm new password",
+      "submit": "Submit"
+    },
+    "confirm_email": {
+      "title": "Check your Email",
+      "subtitle": "We've sent you an email with a link. Please check your inbox and follow the instructions."
+    }
+  }
+}
